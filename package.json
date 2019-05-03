@@ -111,7 +111,7 @@
     "react-redux": "^5.1.1",
     "react-sortable-hoc": "^1.8.3",
     "react-tooltip": "^3.10.0",
-    "react-vis": "^1.8.0",
+    "react-vis": "^1.11.7",
     "redux": "^3.0.4",
     "redux-actions": "^2.2.1",
     "reselect": "^3.0.1",
@@ -171,6 +171,7 @@
     "eslint-plugin-prettier": "^3.0.1",
     "eslint-plugin-react": "~7.12.4",
     "gl": "^4.2.2",
+    "immutable": "^4.0.0-rc.12",
     "jsdom": "^11.1.0",
     "json-loader": "^0.5.4",
     "nyc": "^11.4.1",
@@ -199,8 +200,8 @@
   "peerDependencies": {
     "react": "16.x",
     "react-dom": "16.x",
-    "styled-components": "^4.x",
-    "react-redux": "^5.X"
+    "react-redux": "^5.X",
+    "styled-components": "^4.x"
   },
   "nyc": {
     "sourceMap": false,
